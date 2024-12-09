@@ -1,0 +1,124 @@
+.value5{
+    display: flex;
+
+}
+
+.bor1{
+    border: solid;
+    border-color: #2b2c2dad;
+    background-color: #2b2c2dad;
+    margin-right: 40px;
+    border-radius: 25px;
+    }
+.bor1 h1 {
+    font-size:20px;
+    word-spacing: 4px;
+    margin-left: 100px;
+}
+.bor1 p{
+    font-size:20px;
+    margin-left: 80px;
+    color:rgb(186, 180, 180);
+}
+
+.bor2{
+    border: solid;
+    border-color: #2b2c2dad;
+    background-color:#2b2c2dad;
+    margin-right: 50px;
+    border-radius: 25px;
+}
+.bor2 h1{
+    font-size: 20px;
+    word-spacing: 4px;
+    margin-left: 100px;
+}
+.bor2 p{
+    font-size: 20px;
+    margin-left: 80px;
+    color:rgb(186, 180, 180);
+
+}
+
+.bor3{
+    border: solid;
+    border-color: #2b2c2dad;
+    background-color:#2b2c2dad;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+.bor3 h1{
+    font-size: 20px;
+    word-spacing: 4px;
+    margin-left: 100px;
+}
+.bor3 p{
+    font-size: 19px;
+    margin-left: 80px;
+    color:rgb(186, 180, 180);
+
+}
+.edit p{
+    margin-left:50px;
+    color:rgb(198, 198, 198);
+}
+.edit span{
+    color:rgb(198, 198, 198);
+    margin-left: 80px;
+}
+
+.value6{
+    display:flex;
+    margin-top: 50px;
+    font-size: 15px;
+}
+.value6 h1{
+    font-size: 40px;
+}
+
+.value6 p{
+    margin-left: 600px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    border-style: solid;
+    border-color: rgba(240, 234, 234, 0);
+    background-color:rgba(240, 234, 234, 0.068);
+    border-radius: 25px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.cor3{
+    background-color: rgb(78, 180, 254);;
+    color: rgb(0, 0, 0);
+    border-style: solid ;
+    border-color: rgb(78, 180, 254);
+    border-radius: 20px;
+    margin-left: 130px;
+    padding: 5px;
+ }
+
+.value7{
+    font-size: 30px;
+    margin-top: -80px;
+}
+ .value8{
+    display: flex;
+ }
+ .value8 p{
+    font-size:16px;
+    margin-right: 20px;
+ }
+ 
+.move1{
+    margin-left: 550px;
+}
+.move2{
+     margin-left:20px;
+ }   
+.move3{
+    margin-left:20px;
+}
+.move4{
+    margin-left:20px;
+}

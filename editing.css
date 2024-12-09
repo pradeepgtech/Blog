@@ -1,0 +1,158 @@
+.value{
+    background-color: rgba(14, 14, 36, 0.922);
+    color:aliceblue;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+span{
+    color: rgb(1, 102, 255);
+}
+
+.cor1{
+    word-spacing:10px ;
+    display:flex;
+}
+
+
+.cor1 p{
+    margin-left: 800px;
+    word-spacing: 50px;
+    font-size:16px;
+    font-weight: bold;
+}
+
+.value1 {
+    display: flex;
+}
+.value1 img{
+    margin-left: 370px;
+}
+.value1 p{
+    font-size:25px;
+    line-height: 40px;
+}
+
+.row{
+    display: flex;    
+    margin-top:-60px;
+}
+.por1{
+    margin-left:-75px;
+}
+.por2{
+    margin-left: -80px;
+}
+.por3{
+    margin-left:-80px;
+}
+.por4{
+    margin-left:-80px;
+}
+.row1{
+     font-size: 20px;
+     padding:20px
+}
+
+.value2{
+    display:flex;
+    border-style: solid;
+    border-color: #2b2c2dad;
+    margin-bottom: 50px;
+    background-color:#2b2c2dad;
+    border-radius: 15px;
+}
+ .value2 img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+ }
+ .value2  p{
+     font-size: x-large;
+     line-height: 40px;
+     margin-left:60px;
+ }
+ .value2 h1{
+     margin-left: 60px;
+}
+ 
+ .value2 span{
+    color:rgb(4, 75, 4);
+    border:1px solid;
+    background-color: rgba(10, 237, 143, 0.87);
+    border-radius: 6px;
+    font-size: 18px;
+    margin-left: 20px;
+    font-size:15px;
+    padding:2px;
+ }
+
+.value3{
+    display:flex;
+    border-style: solid;
+    border-color: #2b2c2dad;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    background-color:#2b2c2dad;
+}
+.value3 p{
+    font-size: x-large;
+    line-height: 40px;
+    margin-left: 70px;
+}
+.value3 h1{
+    margin-left: 70px;
+    rgb(240, 145, 145);
+}
+ 
+.value3 span{
+    color: rgb(103, 4, 7);
+    border:1px solid;
+    background-color: rgb(225, 17, 31);
+
+    border-radius: 6px;
+    font-size: 18px;
+    margin-left: 20px;
+    font-size:15px;
+}
+
+.value4{
+    display:flex;
+    border-style: solid;
+    border-color: #2b2c2dad;
+    margin-bottom: 50px;
+    font-size:10px;
+    border-radius: 15px;
+    background-color: #2b2c2dad;
+
+}
+.value4 p{
+    font-size: 20px;
+    line-height: 40px;
+}
+.value4 h1{
+    font-size: 30px;
+    margin-left: 85px;
+}
+
+.value4 span{
+    color:hsla(273, 94%, 32%, 0.966);
+    border:1px solid;
+    background-color: hsla(273, 88%, 74%, 0.966);
+    border-radius: 6px;
+    font-size: 18px;
+    margin-left:20px;
+    font-size:15px;
+}
+
+.cor2{
+    display: flex;
+    margin-bottom: 65px;
+}
+.cor2 h1{
+    font-size: 35px;
+}
+.cor2 p{
+    margin-left:900px;
+    font-size: x-large;
+}
+
